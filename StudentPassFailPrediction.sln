@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentPassFailPrediction", "StudentPassFailPrediction.csproj", "{2449CF24-EEDA-4F0A-BDA4-1B538905426F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2449CF24-EEDA-4F0A-BDA4-1B538905426F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2449CF24-EEDA-4F0A-BDA4-1B538905426F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2449CF24-EEDA-4F0A-BDA4-1B538905426F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2449CF24-EEDA-4F0A-BDA4-1B538905426F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F61D1BD4-2589-4D8A-B464-745E205027A8}
+	EndGlobalSection
+EndGlobal
