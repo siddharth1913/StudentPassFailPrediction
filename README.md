@@ -21,6 +21,24 @@ Given two inputs:
 
 ---
 
+### 💡 What This Project Demonstrates  
+
+This project is a **beginner-friendly introduction** to Machine Learning using **C# and ML.NET**.  
+It helps you understand how to:  
+- Load and preprocess real-world data  
+- Build and train a machine learning model  
+- Perform binary classification using **SDCA Logistic Regression**  
+- Make **real-time predictions** from console input  
+
+It’s a practical way to see how **data-driven decision making** can be added directly into .NET applications without using Python or external ML tools.
+
+
+
+### 🧠 How ML.NET Logic Works Internally  
+
+ML.NET follows a modular pipeline approach where data flows through multiple steps — from loading to transformation to prediction.
+
+
 ## 🧩 Tech Stack
 
 | Component | Description |
@@ -47,3 +65,22 @@ Given two inputs:
 | 4 | 70 | TRUE |
 | 1 | 30 | FALSE |
 | 9 | 75 | TRUE |
+
+
+## 🧪 Example Output
+
+Training Started...
+Training Completed!
+
+Enter Study Hours (or type 'exit' to quit): 6
+Enter Attendance: 85
+🎯 Study Hours: 6, Attendance: 85
+✅ Will Pass: True, Confidence: 92.34%
+
+Enter Study Hours (or type 'exit' to quit): 2
+Enter Attendance: 45
+🎯 Study Hours: 2, Attendance: 45
+✅ Will Pass: False, Confidence: 14.87%
+
+Enter Study Hours (or type 'exit' to quit): exit
+Session Ended.

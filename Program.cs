@@ -34,14 +34,14 @@ namespace StudentPassFailPrediction
             // Create prediction engine (for single prediction)
             var predictor = context.Model.CreatePredictionEngine<StudentData, StudentPrediction>(model);
 
-           
 
             // Student Info
+           
             StudentData newstudent = new StudentData();
 
             Console.Write("Enter Study Hours: ");
             newstudent.StudentHours = float.Parse(Console.ReadLine());
-            
+
             Console.Write("Enter Students Attendance: ");
             newstudent.Attendance = float.Parse(Console.ReadLine());
 
