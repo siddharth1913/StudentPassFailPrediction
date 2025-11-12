@@ -73,15 +73,15 @@ ML.NET follows a modular pipeline approach where data flows through multiple ste
 Training Started...
 Training Completed!
 
-Enter Study Hours (or type 'exit' to quit): 6
+Enter Study Hours: 6
 Enter Attendance: 85
 🎯 Study Hours: 6, Attendance: 85
 ✅ Will Pass: True, Confidence: 92.34%
 
-Enter Study Hours (or type 'exit' to quit): 2
+Enter Study Hours2
 Enter Attendance: 45
 🎯 Study Hours: 2, Attendance: 45
 ✅ Will Pass: False, Confidence: 14.87%
 
-Enter Study Hours (or type 'exit' to quit): exit
+Press any key to exit...
 Session Ended.
