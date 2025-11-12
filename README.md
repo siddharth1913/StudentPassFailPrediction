@@ -38,6 +38,7 @@ It’s a practical way to see how **data-driven decision making** can be added d
 
 ML.NET follows a modular pipeline approach where data flows through multiple steps — from loading to transformation to prediction.
 
+---
 
 ## 🧩 Tech Stack
 
